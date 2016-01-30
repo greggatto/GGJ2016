@@ -1,19 +1,16 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class CountdownClock : MonoBehaviour {
     public MessManager messManager;
     public int clockTimer = 3600;
     private Rect clockPosition;
+    public Text Timer;
 	void Start () {
         clockPosition = new Rect(0, 0, 100, 100);
 	
 	}
-	
-	
-	void OnGUI () {
-        GUI.Label(clockPosition, convertToDigits(clockTimer));
-    }
 
     private string convertToDigits(int time)
     {
@@ -48,6 +45,7 @@ public class CountdownClock : MonoBehaviour {
         if (clockTimer > 0)
         {
             clockTimer--;
+            Timer.text = convertToDigits(clockTimer);
         }
         else
         {
