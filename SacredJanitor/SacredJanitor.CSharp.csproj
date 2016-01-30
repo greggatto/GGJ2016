@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CountdownClock.cs" />
+    <Compile Include="Assets\Scripts\FPSWalkerEnhanced.cs" />
     <Compile Include="Assets\Scripts\MessManager.cs" />
     <Compile Include="Assets\Scripts\Messy.cs" />
     <Compile Include="Assets\Scripts\PickupDropdown.cs" />

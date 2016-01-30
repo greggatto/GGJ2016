@@ -9,7 +9,7 @@ public class MessManager : MonoBehaviour {
 	
 	void Awake () {
         messObjects = new List<GameObject>();
-        GameObject[] temp = GameObject.FindGameObjectsWithTag("Mess");
+        GameObject[] temp = GameObject.FindGameObjectsWithTag("pickup");
         for (int i = 0; i < temp.Length; i++)
         {
             messObjects.Add(temp[i]);
