@@ -109,10 +109,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 278206702}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72f75923a469b7540bba90c8263a1710, type: 3}
+  m_Script: {fileID: 11500000, guid: f43dd6b0c82086045b6d8b652cffd286, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  messManager: {fileID: 1033598028}
+  messManager: {fileID: 0}
   clockTimer: 3600
 --- !u!4 &278206704
 Transform:
@@ -125,7 +125,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
 --- !u!1 &536919766
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,7 +200,7 @@ Transform:
   m_LocalScale: {x: 2.156108, y: 2.1561072, z: 2.1561072}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
 --- !u!1 &813546986
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,7 +337,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
 --- !u!114 &862829392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -346,12 +346,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 862829387}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 947b1d56962b5094497b86350ea6b137, type: 3}
+  m_Script: {fileID: 11500000, guid: 94d0ab42f49af61448a5b43f24d10953, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   needsCleaning: 1
-  pointsDetriment: 100
-  messType: fridge
+  pointsDetriment: 0
+  messType: 
 --- !u!1 &1033598027
 GameObject:
   m_ObjectHideFlags: 0
@@ -376,11 +376,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1033598027}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 613ecb91017b72d4a82282f11e4513e7, type: 3}
+  m_Script: {fileID: 11500000, guid: bd2068dc10ae21d498c055f3687f2da0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   messObjects: []
-  fridgeBox: {fileID: 536919766}
+  fridgeBox: {fileID: 0}
 --- !u!4 &1033598029
 Transform:
   m_ObjectHideFlags: 0
@@ -392,49 +392,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
---- !u!1001 &1068035939
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 5.0890326
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -1.7235613
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
-  m_IsPrefabParent: 0
+  m_RootOrder: 4
 --- !u!1 &1920069457
 GameObject:
   m_ObjectHideFlags: 0
@@ -509,4 +467,4 @@ Transform:
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
