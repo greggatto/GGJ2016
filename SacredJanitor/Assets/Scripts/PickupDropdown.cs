@@ -9,67 +9,80 @@
 using UnityEngine;
 using System.Collections;
 
-public class PickupDropdown : MonoBehaviour {
+public class PickupDropdown : MonoBehaviour
+{
 
-	[SerializeField]   float _pickupRange = 5.00f;
-	[SerializeField]   string _pickupTag = "pickup";
+    [SerializeField]
+    float _pickupRange = 5.00f;
+    [SerializeField]
+    string _pickupTag = "pickup";
 
-	private bool _isHover = false;
-	private bool _isHolding = false;
-	private GameObject _target;
-	Vector3 _screenSpace;
-	Vector3 _offset;
+    private bool _isHover = false;
+    private bool _isHolding = false;
+    private GameObject _target;
+    Vector3 _screenSpace;
+    Vector3 _offset;
 
-	// Update is called once per frame
-	void Update () {
+    // Update is called once per frame
+    void Update()
+    {
 
-		Vector3 fwd = transform.TransformDirection(Vector3.forward);
-		RaycastHit hit;
+        Transform cameraTransform = transform.GetChild(0).transform;
+        //Debug.Log(cameraTransform.position + ", " + cameraTransform.rotation);
 
-		if (Physics.Raycast(transform.position, fwd, out hit) )
-		{
-			if (hit.distance <= _pickupRange && hit.collider.gameObject.tag == _pickupTag) {
-				_isHover = true;
+        Vector3 fwd = cameraTransform.TransformDirection(Vector3.forward);
+        RaycastHit hit;
 
-				if (Input.GetMouseButtonDown(0))
-				{
-					_target = hit.collider.gameObject;
-					hold();
-				}
-			} else 
-			{
-				_isHover = false;
-			}
-		}
+        //Debug.Log(fwd.x + ", " + fwd.y + ", " + fwd.z);
 
-		if (_isHolding)
-		{
-			var curScreenSpace = new Vector3(Input.mousePosition.x, Input.mousePosition.y, _screenSpace.z);
-			var curPosition = Camera.main.ScreenToWorldPoint(curScreenSpace) + _offset;
-			_target.transform.position = curPosition;
-		}
+        if (Physics.Raycast(cameraTransform.position, fwd, out hit))
+        {
+            Debug.Log(hit.collider.gameObject.name);
+            if (hit.distance <= _pickupRange && hit.collider.gameObject.tag == _pickupTag)
+            {
+                _isHover = true;
 
-		if (Input.GetMouseButtonUp(0))
-		{
-			_isHolding = false;
-		}
-	}
+                if (Input.GetMouseButtonDown(0))
+                {
+                    _target = hit.collider.gameObject;
+                    hold();
+                }
+            }
+            else
+            {
+                _isHover = false;
+            }
+        }
 
-	void OnGUI()
-	{
-		if (_isHover == true && _isHolding == false)
-		{
-			GUI.Box(new Rect(Screen.width / 2 - 50, Screen.height / 2 - 12, 100, 24), "Click to hold");
-		} else if (_isHolding == true)
-		{
-			GUI.Box(new Rect(Screen.width / 2 - 50, Screen.height / 2 - 12, 100, 24), "Release to drop");
-		}
-	}
+        if (_isHolding)
+        {
+            var curScreenSpace = new Vector3(Input.mousePosition.x, Input.mousePosition.y, _screenSpace.z);
+            var curPosition = Camera.main.ScreenToWorldPoint(curScreenSpace) + _offset;
+            _target.transform.position = curPosition;
+        }
 
-	void hold() 
-	{
-		_isHolding = true;
-		_screenSpace = Camera.main.WorldToScreenPoint(_target.transform.position);
-		_offset = _target.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, _screenSpace.z));
-	}
+        if (Input.GetMouseButtonUp(0))
+        {
+            _isHolding = false;
+        }
+    }
+
+    void OnGUI()
+    {
+        if (_isHover == true && _isHolding == false)
+        {
+            GUI.Box(new Rect(Screen.width / 2 - 50, Screen.height / 2 - 12, 100, 24), "Click to hold");
+        }
+        else if (_isHolding == true)
+        {
+            GUI.Box(new Rect(Screen.width / 2 - 50, Screen.height / 2 - 12, 100, 24), "Release to drop");
+        }
+    }
+
+    void hold()
+    {
+        _isHolding = true;
+        _screenSpace = Camera.main.WorldToScreenPoint(_target.transform.position);
+        _offset = _target.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, _screenSpace.z));
+    }
 }
