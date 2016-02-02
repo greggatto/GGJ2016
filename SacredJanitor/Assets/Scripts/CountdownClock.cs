@@ -5,9 +5,14 @@ using System.Collections;
 public class CountdownClock : MonoBehaviour {
     public MessManager messManager;
     public int clockTimer = 3600;
+    private int defaultTime = 3600;
     private Rect clockPosition;
     public Text Timer;
+    private bool isCounting = false;
+
+
 	void Start () {
+        clockTimer = defaultTime;
         clockPosition = new Rect(0, 0, 100, 100);
 	
 	}
@@ -42,14 +47,28 @@ public class CountdownClock : MonoBehaviour {
 
     public void FixedUpdate()
     {
-        if (clockTimer > 0)
+        if (isCounting)
         {
-            clockTimer--;
-            Timer.text = convertToDigits(clockTimer);
-        }
-        else
-        {
-            EndLevel();
+            if (clockTimer > 0)
+            {
+                clockTimer--;
+                
+                Timer.text = convertToDigits(clockTimer);
+                if ((clockTimer <= (defaultTime/2)) && ((clockTimer + 1) > (defaultTime/2)))
+                {
+                    NotifyHalfTime();
+                }
+                if ((clockTimer <= (60/Time.fixedDeltaTime)) && ((clockTimer + 1) > (60 / Time.fixedDeltaTime)))
+                {
+                    NotifyMinuteLeft();
+                }
+            }
+            else
+            {
+                EndLevel();
+                isCounting = false;
+                NotifyOutOfTime();
+            }
         }
     }
 
@@ -60,7 +79,28 @@ public class CountdownClock : MonoBehaviour {
 
     public void EndLevel()
     {
-        messManager.CalculateScore();
-        ResetClock(3600);
+        //messManager.CalculateScore();
+        ResetClock(defaultTime);
+    }
+
+    private void NotifyHalfTime()
+    {
+        Debug.Log("half time");
+    }
+
+    private void NotifyMinuteLeft()
+    {
+        Debug.Log("one minute left");
+    }
+
+    private void NotifyOutOfTime()
+    {
+        Debug.Log("out of time");
+        GameManager.Instance.NotifyGameOutOfTime();
+    }
+
+    public void setIsCounting(bool b)
+    {
+        isCounting = b;
     }
 }

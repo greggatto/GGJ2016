@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Flocking Sigil.svg"
+   inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\FFF Sigil.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="134.52458"
+     inkscape:cy="708.47215"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 336.87891,113.94531 a 150,150 0 0 0 -150,150 150,150 0 0 0 150,150 150,150 0 0 0 150,-150 150,150 0 0 0 -150,-150 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sigil">
+    <g
+       id="g4449"
+       transform="matrix(1.0598508,0,0,1.0598508,59.241886,-61.798326)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 304.60137,219.14781 c -0.35848,4.57328 -7.25604,3.15833 -9.5485,1.50849 -9.34062,-6.72229 -4.50979,-20.71729 2.69307,-26.88361 16.61498,-14.22397 41.27464,-4.21312 52.13588,12.07083 10.04692,15.06308 10.6761,34.68488 3.94732,51.19686"
+         sodipodi:t0="0.10201244"
+         sodipodi:argument="-5.6172161"
+         sodipodi:radius="62.948391"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1.8"
+         sodipodi:cy="218.14951"
+         sodipodi:cx="304.33167"
+         id="path4429"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.93612433,0.49056062,-0.52727845,0.87093591,146.2292,-124.84808)"
+         d="m 297.22159,227.83908 c -0.21604,3.6369 -5.72409,2.58888 -7.55631,1.31277 -7.52642,-5.24201 -3.82159,-16.45451 1.84375,-21.44314 13.10375,-11.53855 32.89588,-3.80081 41.73558,9.07627 5.92684,8.63382 8.02895,19.46008 6.60551,29.76506"
+         sodipodi:t0="0.10395852"
+         sodipodi:argument="-5.6172161"
+         sodipodi:radius="47.067501"
+         sodipodi:revolution="0.96192193"
+         sodipodi:expansion="1.8"
+         sodipodi:cy="227.0695"
+         sodipodi:cx="297.0032"
+         id="path4429-3"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.80183446px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <g
+       id="g4449-7"
+       transform="matrix(-1.0598508,0,0,1.0598508,617.33817,-63.145034)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 304.60137,219.14781 c -0.35848,4.57328 -7.25604,3.15833 -9.5485,1.50849 -9.34062,-6.72229 -4.50979,-20.71729 2.69307,-26.88361 16.61498,-14.22397 41.27464,-4.21312 52.13588,12.07083 10.04692,15.06308 10.6761,34.68488 3.94732,51.19686"
+         sodipodi:t0="0.10201244"
+         sodipodi:argument="-5.6172161"
+         sodipodi:radius="62.948391"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1.8"
+         sodipodi:cy="218.14951"
+         sodipodi:cx="304.33167"
+         id="path4429-6"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.93612433,0.49056062,-0.52727845,0.87093591,146.2292,-124.84808)"
+         d="m 297.22159,227.83908 c -0.21604,3.6369 -5.72409,2.58888 -7.55631,1.31277 -7.52642,-5.24201 -3.82159,-16.45451 1.84375,-21.44314 13.10375,-11.53855 32.89588,-3.80081 41.73558,9.07627 5.92684,8.63382 8.02895,19.46008 6.60551,29.76506"
+         sodipodi:t0="0.10395852"
+         sodipodi:argument="-5.6172161"
+         sodipodi:radius="47.067501"
+         sodipodi:revolution="0.96192193"
+         sodipodi:expansion="1.8"
+         sodipodi:cy="227.0695"
+         sodipodi:cx="297.0032"
+         id="path4429-3-2"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.80183446px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.41853631;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4476"
+       sodipodi:sides="10"
+       sodipodi:cx="385.45501"
+       sodipodi:cy="254.08568"
+       sodipodi:r1="33.500668"
+       sodipodi:r2="29.820173"
+       sodipodi:arg1="0.93921767"
+       sodipodi:arg2="1.3022679"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.5"
+       inkscape:randomized="0"
+       d="m 405.23447,281.12395 c -5.00613,3.299 -6.17191,-0.15813 -11.86778,1.71322 -4.33886,1.42551 -3.24017,4.9574 -7.80246,4.749 -5.98915,-0.27358 -4.90023,-3.75568 -10.60823,-5.58968 -4.34811,-1.39706 -5.53525,2.10609 -9.10372,-0.74415 -4.68452,-3.74167 -1.75684,-5.9187 -5.29671,-10.75751 -2.69652,-3.686 -5.71604,-1.54967 -6.92766,-5.95306 -1.59056,-5.78056 2.05761,-5.82097 2.03797,-11.81634 -0.0149,-4.56701 -3.71349,-4.61351 -2.10547,-8.8881 2.11094,-5.61148 5.08612,-3.49984 8.59423,-8.36173 2.67232,-3.70358 -0.29253,-5.91515 3.52093,-8.42819 5.00613,-3.29901 6.17191,0.15812 11.86777,-1.71322 4.33887,-1.42551 3.24018,-4.9574 7.80246,-4.749 5.98915,0.27358 4.90024,3.75568 10.60824,5.58968 4.34811,1.39706 5.53524,-2.10609 9.10371,0.74415 4.68452,3.74166 1.75684,5.91869 5.29672,10.75751 2.69652,3.686 5.71603,1.54967 6.92766,5.95306 1.59056,5.78056 -2.05761,5.82097 -2.03798,11.81634 0.015,4.56701 3.7135,4.61351 2.10548,8.8881 -2.11094,5.61148 -5.08613,3.49983 -8.59423,8.36172 -2.67233,3.70359 0.29253,5.91516 -3.52093,8.4282 z"
+       inkscape:transform-center-x="-3.5695911"
+       inkscape:transform-center-y="-0.35400381"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.36899999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4476-2"
+       sodipodi:sides="10"
+       sodipodi:cx="-285.35712"
+       sodipodi:cy="-248.43362"
+       sodipodi:r1="29.535662"
+       sodipodi:r2="26.290775"
+       sodipodi:arg1="0.93921767"
+       sodipodi:arg2="1.3022679"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.5"
+       inkscape:randomized="0"
+       d="m -267.91868,-224.5955 c -4.41362,2.90856 -5.44143,-0.1394 -10.46316,1.51045 -3.82533,1.25679 -2.85668,4.37066 -6.87899,4.18693 -5.2803,-0.24119 -4.32026,-3.31117 -9.35268,-4.92811 -3.83349,-1.23172 -4.88012,1.85682 -8.02624,-0.65607 -4.13009,-3.29881 -1.54892,-5.21818 -4.66981,-9.4843 -2.37737,-3.24974 -5.03951,-1.36626 -6.10774,-5.24847 -1.40231,-5.0964 1.81407,-5.13203 1.79677,-10.41781 -0.0132,-4.02648 -3.27397,-4.06747 -1.85628,-7.83614 1.86109,-4.94733 4.48415,-3.08561 7.57705,-7.37207 2.35605,-3.26523 -0.2579,-5.21505 3.10421,-7.43066 4.41362,-2.90856 5.44142,0.1394 10.46315,-1.51045 3.82534,-1.25679 2.85668,-4.37066 6.87899,-4.18693 5.2803,0.24119 4.32027,3.31117 9.35269,4.92811 3.83348,1.23172 4.88011,-1.85682 8.02624,0.65607 4.13008,3.29881 1.54891,5.21818 4.66981,9.4843 2.37737,3.24974 5.03951,1.36626 6.10773,5.24848 1.40232,5.09639 -1.81407,5.13202 -1.79677,10.4178 0.0132,4.02648 3.27398,4.06747 1.85628,7.83614 -1.86108,4.94734 -4.48414,3.08561 -7.57705,7.37207 -2.35604,3.26523 0.25791,5.21505 -3.1042,7.43066 z"
+       inkscape:transform-center-x="0.35400996"
+       inkscape:transform-center-y="3.5695839"
+       transform="matrix(0,1.1342448,1.1342448,0,572.53888,574.82885)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4499"
+       transform="matrix(0.89718575,0,0,0.89718575,36.093249,12.984272)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4495"
+         d="m 288.00944,343.5658 c 0,0 0.35714,22.32143 12.67857,25.53571 9.28571,-1.07143 9.99999,-17.32142 9.99999,-17.32142 0,0 1.60715,16.78571 13.57144,18.03571 12.12288,-1.04079 12.85714,-14.46428 12.85714,-14.46428 0,0 4.28571,13.39285 13.21428,14.28571 9.46429,-0.17857 12.32143,-17.5 12.32143,-17.5 0,0 1.07142,15.35715 9.28571,16.78572 13.21429,-2.67857 12.32143,-25.71429 12.32143,-25.71429"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4497"
+         d="m 300.38252,368.56362 c 13.02611,29.70722 64.02267,28.13071 74.1124,-0.40047"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.23901522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 248.92094,326.04064 c -11.67819,2.7582 -40.96679,-20.27409 -43.57575,-36.49723 -1.33518,-9.98657 15.1568,2.7582 15.1568,2.7582 0,0 -17.5872,-17.05394 -17.76577,-26.00599 1.35897,-8.05918 14.90836,4.72838 14.90836,4.72838 0,0 -17.46268,-22.87302 -15.03259,-29.9463 8.41721,-8.50182 51.69751,60.0946 51.89958,76.26912 -1.833,10.72967 -19.51157,2.69396 -17.19014,-10.69891 2.85714,-8.03571 17.32142,6.96429 8.92857,9.10715"
+       id="path4503"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.23901522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 429.51842,328.66236 c 11.67819,2.7582 40.96679,-20.27409 43.57575,-36.49723 1.33518,-9.98657 -15.1568,2.7582 -15.1568,2.7582 0,0 17.5872,-17.05394 17.76577,-26.00599 -1.35897,-8.05918 -14.90836,4.72838 -14.90836,4.72838 0,0 17.46268,-22.87302 15.03259,-29.9463 -8.41721,-8.50182 -51.69751,60.0946 -51.89958,76.26912 1.833,10.72967 19.51157,2.69396 17.19014,-10.69891 -2.85714,-8.03571 -17.32142,6.96429 -8.92857,9.10715"
+       id="path4503-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Flocking Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

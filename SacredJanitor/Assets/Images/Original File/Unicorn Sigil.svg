@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Unicorn Sigil.svg"
+   inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\FFF Sigil.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="397.30067 : 1291.2571 : 1"
+       inkscape:vp_y="822.70603 : -568.46704 : 0"
+       inkscape:vp_z="-25.692522 : 679.08609 : 1"
+       inkscape:persp3d-origin="41.506622 : 1084.8771 : 1"
+       id="perspective4721" />
+    <linearGradient
+       id="linearGradient4547"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4549" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4541"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4543" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4535"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4537" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="231.68637"
+     inkscape:cy="815.4487"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 336.87891,113.94531 a 150,150 0 0 0 -150,150 150,150 0 0 0 150,150 150,150 0 0 0 150,-150 150,150 0 0 0 -150,-150 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sigil">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.71595949px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 340.54473,219.42751 -64.49098,-87.25071 79.84064,65.66503"
+       id="path6773"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93861216px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260.67254,330.03898 c 28.15837,-8.38047 145.48488,-14.07919 173.30803,-13.40874 -7.03959,12.40308 -78.77637,60.00413 -110.95737,65.0324 -17.76658,-4.02262 -51.62366,-26.48227 -62.35066,-51.62366 z"
+       id="path6775"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 230.24818,261.10476 c 24.52038,-36.02376 61.45231,-34.51016 82.94548,0 -13.62243,8.7789 -68.41489,8.47618 -82.94548,0 z"
+       id="path6792"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 372.8258,264.55708 c 29.52038,-17.09519 48.23803,-20.22445 82.94548,0 -33.97957,-19.07824 -52.34346,-16.88096 -82.94548,0 z"
+       id="path6792-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       d="m 428.57142,247.71935 c 5.35714,-18.21428 17.85714,-23.92856 29.64286,-22.85714"
+       id="path6809"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28909349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       id="path6815"
+       sodipodi:sides="5"
+       sodipodi:cx="465.14732"
+       sodipodi:cy="226.42399"
+       sodipodi:r1="8.4836445"
+       sodipodi:r2="2.7397869"
+       sodipodi:arg1="2.9113731"
+       sodipodi:arg2="-2.7900196"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 456.88749,228.35989 5.68762,-2.87941 -1.82137,-6.31381 4.49605,4.51946 5.44196,-3.6833 -2.9089,5.67258 5.18468,4.03741 -6.29385,-1.0136 -2.23765,6.17855 -0.98091,-6.29903 z"
+       inkscape:transform-center-x="-1.0566364"
+       inkscape:transform-center-y="0.9857392"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.46281618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       d="m 383.67606,249.55908 c -3.09922,-10.53733 -10.33072,-13.84315 -17.149,-13.22331"
+       id="path6809-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16724643;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       id="path6815-6"
+       sodipodi:sides="5"
+       sodipodi:cx="-362.5162"
+       sodipodi:cy="237.2393"
+       sodipodi:r1="4.9079599"
+       sodipodi:r2="1.5850221"
+       sodipodi:arg1="2.9113731"
+       sodipodi:arg2="-2.7900196"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -367.29467,238.35926 3.2904,-1.6658 -1.0537,-3.65267 2.60105,2.6146 3.14829,-2.13086 -1.68286,3.2817 2.99944,2.33573 -3.64112,-0.5864 -1.29452,3.57442 -0.56748,-3.64411 z"
+       inkscape:transform-center-x="0.61127136"
+       inkscape:transform-center-y="0.5702746"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.56925058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       d="m 388.77766,243.63607 c 0.21559,-13.50785 -7.06697,-20.03548 -15.30049,-21.80203"
+       id="path6809-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16724643;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       id="path6815-6-0"
+       sodipodi:sides="5"
+       sodipodi:cx="-385.54153"
+       sodipodi:cy="236.52502"
+       sodipodi:r1="4.9079599"
+       sodipodi:r2="1.5850221"
+       sodipodi:arg1="2.9113731"
+       sodipodi:arg2="-2.7900196"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -390.32,237.64498 3.2904,-1.6658 -1.0537,-3.65267 2.60105,2.6146 3.14829,-2.13086 -1.68286,3.2817 2.99944,2.33573 -3.64112,-0.58639 -1.29452,3.57441 -0.56748,-3.64411 z"
+       inkscape:transform-center-x="1.3527162"
+       inkscape:transform-center-y="0.17208739"
+       transform="matrix(-1.1743033,-0.36584312,-0.36584312,1.1743033,2.2250714,-197.37209)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.64627558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       d="m 424.66383,246.74345 c -5.64956,-14.25912 -0.5348,-24.11405 7.50045,-29.2942"
+       id="path6809-66"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28909349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65116278"
+       id="path6815-8"
+       sodipodi:sides="5"
+       sodipodi:cx="444.85461"
+       sodipodi:cy="218.57329"
+       sodipodi:r1="8.4836445"
+       sodipodi:r2="2.7397869"
+       sodipodi:arg1="2.9113731"
+       sodipodi:arg2="-2.7900196"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 436.5948,220.50918 5.68761,-2.87941 -1.82136,-6.31381 4.49605,4.51946 5.44195,-3.6833 -2.9089,5.67259 5.18468,4.0374 -6.29385,-1.0136 -2.23764,6.17855 -0.98091,-6.29903 z"
+       inkscape:transform-center-x="-1.1089591"
+       inkscape:transform-center-y="-0.94326706"
+       transform="matrix(0.63656126,-0.49739564,0.49739564,0.63656126,45.459794,297.12841)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\Unicorn Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

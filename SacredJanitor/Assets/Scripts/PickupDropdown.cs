@@ -23,11 +23,14 @@ public class PickupDropdown : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		Vector3 fwd = transform.TransformDirection(Vector3.forward);
+        Transform cameraTransform = transform.GetChild(0).transform;
+        
+		Vector3 fwd = cameraTransform.TransformDirection(Vector3.forward);
 		RaycastHit hit;
-
-		if (Physics.Raycast(transform.position, fwd, out hit) )
+        
+		if (Physics.Raycast(cameraTransform.position, fwd, out hit) )
 		{
+            //Debug.Log(hit.collider.gameObject.name);
 			if (hit.distance <= _pickupRange && hit.collider.gameObject.tag == _pickupTag) {
 				_isHover = true;
 
@@ -70,6 +73,7 @@ public class PickupDropdown : MonoBehaviour {
 	{
 		_isHolding = true;
 		_screenSpace = Camera.main.WorldToScreenPoint(_target.transform.position);
+        _target.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionX | RigidbodyConstraints.FreezePositionZ;
 		_offset = _target.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, _screenSpace.z));
 	}
 }

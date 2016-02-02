@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="One Earth.svg"
+   inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\FFF Sigil.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4547"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4549" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4541"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4543" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4535"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4537" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="169.94775"
+     inkscape:cy="807.02858"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 336.87891,113.94531 a 150,150 0 0 0 -150,150 150,150 0 0 0 150,150 150,150 0 0 0 150,-150 150,150 0 0 0 -150,-150 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\One Earth Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sigil">
+    <g
+       id="g4688"
+       transform="matrix(0.86501378,0,0,0.86501378,47.227857,41.418427)"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\One Earth Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="129.04953"
+         cy="267.14789"
+         cx="336.64282"
+         id="path4533"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.18666232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="118.73979"
+         cy="267.00504"
+         cx="336.42856"
+         id="path4533-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09186006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4698"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\One Earth Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4645"
+         d="m 324.1869,141.6915 c -6.45552,13.63398 -5.5014,40.9085 0.0949,49.75476 4.15385,-10.7097 5.40547,-38.89887 -0.0949,-49.75476 z"
+         style="fill:#545454;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.13964117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccczc"
+         inkscape:connector-curvature="0"
+         id="path4587"
+         d="m 319.51599,166.05577 c 0.0622,-13.13043 24.32148,-25.93008 34.36744,-25.47581 3.62018,1.07401 3.13724,14.55024 0.13201,25.54169 2.70737,9.9452 3.43215,25.86901 0.17867,26.88859 -9.05667,0.54619 -34.74022,-13.82403 -34.67809,-26.95446 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zccz"
+         inkscape:connector-curvature="0"
+         id="path4587-9"
+         d="m 312.96327,166.31523 c 0.0596,-9.13994 4.07267,-19.6711 11.26149,-25.82397 -3.35324,7.84435 -3.4098,44.92411 0.27814,52.09664 -8.16381,-6.06096 -11.5992,-17.13273 -11.53963,-26.27267 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 335.71428,286.64792 c -42.5,1.07143 -71.42857,9.28571 -80,17.14285 -4.64285,9.28572 1e-5,20.35715 1e-5,20.35715 13.21429,-11.78572 71.42857,-13.21429 80.35714,-12.85715 7.85714,-0.35714 72.14285,1.07143 82.85714,11.07143 0,0 3.92858,-10.71428 -0.71428,-20.71428 -8.21429,-8.21429 -46.78572,-14.28571 -82.50001,-15 z"
+       id="path4531"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projects\GGJ2016\SacredJanitor\Assets\Images\One Earth Sigil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
